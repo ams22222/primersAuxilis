@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="validar">VALIDAR</string>
+    <string name="jocs">JOCS</string>
+    <string name="teoria">Teoria</string>
+    <string name="perfil">PERFIL</string>
+    <string name="joc_1_segueix_el_ritme">Joc 1: Segueix el ritme</string>
+    <string name="joc_2_hist_ria_interactiva">Joc 2: Història interactiva</string>
+    <string name="todo">TODO</string>
+    <string name="trucada">Joc 3: Trucada a emergències</string>
+    <string name="jugar">Jugar</string>
+    <string name="comprar">Comprar</string>
+    <string name="editar_user">Editar Usuari</string>
+    <string name="pantalla">Pantalla</string>
+    <string name="so_i_video">So i Video</string>
+    <string name="reset">Reset</string>
+    <string name="ranking">Rànking</string>
+    <string name="logout">LogOut</string>
+    <string name="punts">Punts:</string>
+    <string name="registrar_se">Registrar-se</string>
+    <string name="pass_val">8 caràcters</string>
+    <string name="password">Password</string>
+    <string name="primers_auxilis">PRIMERS AUXILIS</string>
+    <string name="username">Username</string>
+    <string name="nom">Nom</string>
+    <string name="edat">Edat</string>
+    <string name="email">Email</string>
+</resources>
